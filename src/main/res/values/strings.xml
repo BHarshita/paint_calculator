@@ -1,0 +1,11 @@
+<resources>
+    <string name="title"> Phone Photo Prints </string>
+    <string name="numPrints">Number of Prints</string>
+    <string name="rad1"> 4 x 6 (19 cents) </string>
+    <string name="rad2"> 5 x 7 (49 cents) </string>
+    <string name="rad3"> 8 x 10 (79 cents) </string>
+    <string name="btn"> ORDER PRINTS </string>
+    <string name="result"> </string>
+
+
+</resources>
